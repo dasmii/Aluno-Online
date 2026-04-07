@@ -262,7 +262,7 @@ public class ProfessorController {
 
 CRIAR ALUNO
 <img width="1266" height="713" alt="image" src="https://github.com/user-attachments/assets/ffba8c65-5c09-46f2-ae0b-0c0c51abaf04" />
-LLISTAR TODOS ALUNOS
+LISTAR TODOS ALUNOS
 <img width="1266" height="713" alt="image" src="https://github.com/user-attachments/assets/0d9f6067-3da0-4251-a317-c14f91aaa0a2" />
 BUSCAR ALUNOS POR ID
 <img width="1266" height="713" alt="image" src="https://github.com/user-attachments/assets/49b7eefe-41dc-45e7-8ff8-33dcbac08b6a" />
@@ -271,7 +271,20 @@ DELETAR POR ID
 ATUALIZAR POR ID
 <img width="1266" height="713" alt="image" src="https://github.com/user-attachments/assets/bb431828-e204-4084-96d0-5aafc180769b" />
 
+CRIAR PROFESSOR
+<img width="721" height="601" alt="image" src="https://github.com/user-attachments/assets/9a8a6624-1cb7-429f-b444-2539389bfaf4" />
+LISTAR TODOS PROFESSORES
 
+<img width="739" height="444" alt="image" src="https://github.com/user-attachments/assets/b1e2b746-2c09-4b87-bb22-d7381afd425b" />
+
+BUSCAR PROFESSOR POR ID
+<img width="736" height="540" alt="image" src="https://github.com/user-attachments/assets/6d9ce35d-a6b7-4824-846d-6dce375aece3" />
+
+DELETAR POR ID
+<img width="728" height="544" alt="image" src="https://github.com/user-attachments/assets/b0109604-746e-4857-abd7-1753eafcbfc2" />
+
+ATUALIZAR POR ID
+<img width="705" height="301" alt="image" src="https://github.com/user-attachments/assets/118edcb7-316a-4b32-b653-8158119298f0" />
 
 ---
 
@@ -281,6 +294,7 @@ Aluno
 
 Professor
 <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/953a842e-4f39-4862-a53f-d23bd5f6e216" />
+<img width="662" height="252" alt="image" src="https://github.com/user-attachments/assets/bc38f5ea-50c7-4359-bc7a-07eae806979a" />
 
 
 ---
