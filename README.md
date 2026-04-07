@@ -1,4 +1,4 @@
-# 📘 Aluno Online API
+# 📘 Aluno Online 
 
 ## 📖 Visão Geral
 Este projeto consiste no desenvolvimento de uma **API REST** utilizando **Spring Boot**, com o objetivo de gerenciar dados de **Alunos** e **Professores**.  
@@ -270,21 +270,17 @@ DELETAR POR ID
 <img width="1266" height="713" alt="image" src="https://github.com/user-attachments/assets/9cec3e56-d831-4b96-bbd6-5154fb22c3a4" />
 ATUALIZAR POR ID
 <img width="1266" height="713" alt="image" src="https://github.com/user-attachments/assets/bb431828-e204-4084-96d0-5aafc180769b" />
-
 CRIAR PROFESSOR
-<img width="721" height="601" alt="image" src="https://github.com/user-attachments/assets/9a8a6624-1cb7-429f-b444-2539389bfaf4" />
+<img width="1266" height="713" alt="image" src="https://github.com/user-attachments/assets/a125cae2-904f-42c5-a807-1d4f6584fd90" />
+
 LISTAR TODOS PROFESSORES
-
-<img width="739" height="444" alt="image" src="https://github.com/user-attachments/assets/b1e2b746-2c09-4b87-bb22-d7381afd425b" />
-
+<img width="1266" height="713" alt="image" src="https://github.com/user-attachments/assets/f6e12d83-b202-4fa7-8487-b0734fbca488" />
 BUSCAR PROFESSOR POR ID
-<img width="736" height="540" alt="image" src="https://github.com/user-attachments/assets/6d9ce35d-a6b7-4824-846d-6dce375aece3" />
-
+<img width="1266" height="713" alt="image" src="https://github.com/user-attachments/assets/b3e3d73a-d62c-4941-ab98-a7644feeda68" />
 DELETAR POR ID
-<img width="728" height="544" alt="image" src="https://github.com/user-attachments/assets/b0109604-746e-4857-abd7-1753eafcbfc2" />
-
+<img width="1266" height="713" alt="image" src="https://github.com/user-attachments/assets/48af7201-d327-4684-bab5-5691ca1420d5" />
 ATUALIZAR POR ID
-<img width="705" height="301" alt="image" src="https://github.com/user-attachments/assets/118edcb7-316a-4b32-b653-8158119298f0" />
+<img width="1266" height="713" alt="image" src="https://github.com/user-attachments/assets/26938711-9d71-444a-9405-758fe99dcdd7" />
 
 ---
 
